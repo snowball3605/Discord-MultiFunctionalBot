@@ -1,5 +1,6 @@
-## 12
-
+<p align="center">
+ <a style="font-size:100px;font-family:verdana"><b>此GitHub資料:</b></a><br>
+</p>
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>此GitHub資料:</b></a><br>
     <img src="https://img.shields.io/github/release/Kevin28576/ModeMail?label=Release&logo=files">
