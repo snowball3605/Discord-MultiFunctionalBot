@@ -1,37 +1,33 @@
 <p align="center">
- <a style="font-size:100px;font-family:verdana"><b>此GitHub資料:</b></a><br>
+    <h1 align="center">
+        <b>MultiFunctionalBot</b>
+    </h1>
 </p>
 <p align="center">
     <a style="font-size:15px;font-family:verdana"><b>此GitHub資料:</b></a><br>
-    <img src="https://img.shields.io/github/release/Kevin28576/ModeMail?label=Release&logo=files">
-    <img src="https://img.shields.io/github/forks/Kevin28576/ModeMail?label=Forks&color=lime&logo=githubactions&logoColor=lime">
-    <img src="https://img.shields.io/github/stars/Kevin28576/ModeMail?label=Stars&color=yellow&logo=reverbnation&logoColor=yellow">
-    <img src="https://img.shields.io/github/license/Kevin28576/ModeMail?label=License&color=808080&logo=gitbook&logoColor=808080">
-    <img src="https://img.shields.io/github/issues/Kevin28576/ModeMail?label=Issues&color=red&logo=ifixit&logoColor=red">
+    <a href="https://discord.com/">
+        <img alt="Disnake" src="https://img.shields.io/badge/Discord版本-V2.5.1-blue.svg?style=for-the-badge&logo=discord" />
+    </a>
+    <a href="https://github.com/weslychan1212">
+        <img alt="MFB擁有者" src="https://img.shields.io/badge/MFB擁有者-雪球(snowball_213)-blue.svg?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html">
+        <img alt="Disnake" src="https://img.shields.io/badge/JDA版本-V19-blue.svg?style=for-the-badge&logo=java" />
+    </a>
     <br>
     <a style="font-size:15px;font-family:verdana"><b>Discord支持群組:</b></a><br>
-    <a href="https://discord.gg/NSd8f6mkqH">
-        <img src="https://img.shields.io/discord/883760822143320065.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
-    </a>
-    <a style="font-size:15px;font-family:verdana"><b>開發語言:</b></a><br>
-    <img src="https://img.shields.io/badge/JavaScript-100000?label=Made%20with:&style=flat&logo=javascript&color=yellow">
-    <br>
-    <a style="font-size:15px;font-family:verdana"><b>Fork/Download For:</b></a><br>
-    <a href="https://replit.com/github/Kevin28576/ModeMail">
-        <img src="https://img.shields.io/badge/Repl.it-100000?label=Fork%20on:&style=flat&logo=replit&color=808080&logoColor=white">
-    </a>
-    <a href="https://github.com/Kevin28576/ModeMail/fork">
-        <img src="https://img.shields.io/badge/GitHub-100000?label=Fork%20on:&style=flat&logo=github&color=808080">
+    <a href="https://discord.gg/jf2tZw69">
+        <img src="https://img.shields.io/discord/1126878181702508568.svg?label=Discord%20Server:&logo=discord&color=5865F2"><br>
     </a>
 </p>
     
-# 什麼是 ModMail Bot ?
-Modmail 是一個在功能和用途上都類似於 Reddit 的 Modmail。它作為共享收件箱，供群組工作人員以無縫方式與用戶交流。
+# 什麼是 MultiFunctionalBot(MFB) ?
+MFB 是一個多功能,多語言,權限設定的機器人.
     
-# Discord.js V14 ModMail Bot - 介紹:
-ModMail Bot 是一個當用戶想要聯絡管理員時可以直接私訊機器人來做到與管理員聯絡的功能，此機器人資料庫使用`Quick.db`的強大功能，此機器人也支持斜線指令處理。<br>
+# Discord.java V19 MultiFunctionalBot - 介紹:
+你可以查看語言代碼和使用指令自由互換語言.最重要的是它還可以指定把一些你不想用的指令關閉<br>
     
-如果您喜歡這隻機器人開源企劃的話，您可以至頁面上方為我們點一下 (⭐️) 來支持一下我們這個開源企劃!
+如果您喜歡這隻機器人話，您可以為我們點一下 (⭐️) 來支持一下我們這個機器人!
     
 # 功能:
 #### 編寫中!
